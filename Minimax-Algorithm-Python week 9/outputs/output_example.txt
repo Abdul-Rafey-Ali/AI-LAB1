@@ -1,0 +1,3 @@
+scores = [3, 5, 2, 9, 3, 5, 2, 9]
+target_depth = 3
+optimal_value = 2.0
